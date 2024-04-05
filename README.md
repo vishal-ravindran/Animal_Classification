@@ -36,3 +36,21 @@ This repository contains code for an image classification task using TensorFlow/
 - Matplotlib
 - scikit-learn
 
+## Screenshots:
+1. **Random Samples** <br>
+![image](https://github.com/vishal-ravindran/Animal_Classification/assets/104803633/245ec028-18a8-4624-87f1-097a275c3727)
+
+2. **Data Augmentation** <br>
+![image](https://github.com/vishal-ravindran/Animal_Classification/assets/104803633/a9a0ede6-5fdd-405f-a410-2978d00362d3)
+
+3. **Plotting** <br>
+![image](https://github.com/vishal-ravindran/Animal_Classification/assets/104803633/c2794230-c073-40ba-9565-72c771cd6a05)
+![image](https://github.com/vishal-ravindran/Animal_Classification/assets/104803633/c3a1b2d5-b769-45eb-9997-22a7021a6558)
+
+
+5. **Displaying Some Predictions** <br>
+![image](https://github.com/vishal-ravindran/Animal_Classification/assets/104803633/f6e00556-fdaa-4fe0-af93-7745af9ca3f8)
+
+6. **Confusion Matrix** <br>
+
+   ![image](https://github.com/vishal-ravindran/Animal_Classification/assets/104803633/026c6dd1-b58e-4bd1-bfe4-ed73819acaca)
